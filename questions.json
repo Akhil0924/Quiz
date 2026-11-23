@@ -1,0 +1,1843 @@
+{
+  "sections": [
+    {
+      "id": "physics",
+      "name": "Physics",
+      "icon": "⚛️",
+      "description": "Units, laws of motion, optics, electricity, waves, and inventions",
+      "questions": [
+        {
+          "question": "The SI unit of electric current is ____.",
+          "answer": "Ampere",
+          "aliases": [
+            "ampere",
+            "A",
+            "amp"
+          ],
+          "explanation": "Named after André-Marie Ampère, 1 ampere equals 1 coulomb of charge passing per second.",
+          "options": [
+            "Ampere",
+            "Volt",
+            "Watt",
+            "Coulomb"
+          ]
+        },
+        {
+          "question": "The SI unit of force is ____.",
+          "answer": "Newton",
+          "aliases": [
+            "newton",
+            "N"
+          ],
+          "explanation": "1 Newton is the force required to accelerate a 1 kg mass at 1 m/s².",
+          "options": [
+            "Newton",
+            "Joule",
+            "Pascal",
+            "Watt"
+          ]
+        },
+        {
+          "question": "The instrument used to measure atmospheric pressure is called a ____.",
+          "answer": "Barometer",
+          "aliases": [
+            "barometer"
+          ],
+          "explanation": "Evangelista Torricelli invented the mercury barometer in 1643.",
+          "options": [
+            "Barometer",
+            "Hygrometer",
+            "Anemometer",
+            "Altimeter"
+          ]
+        },
+        {
+          "question": "Light travels fastest in ____.",
+          "answer": "Vacuum",
+          "aliases": [
+            "vacuum",
+            "empty space"
+          ],
+          "explanation": "In a vacuum, light travels at approximately 3 × 10⁸ m/s.",
+          "options": [
+            "Vacuum",
+            "Water",
+            "Glass",
+            "Diamond"
+          ]
+        },
+        {
+          "question": "The bending of light as it passes from one medium to another is called ____.",
+          "answer": "Refraction",
+          "aliases": [
+            "refraction"
+          ],
+          "explanation": "Refraction occurs because the speed of light changes when entering a medium of different optical density.",
+          "options": [
+            "Refraction",
+            "Reflection",
+            "Diffraction",
+            "Dispersion"
+          ]
+        },
+        {
+          "question": "The SI unit of electrical resistance is ____.",
+          "answer": "Ohm",
+          "aliases": [
+            "ohm",
+            "Ω"
+          ],
+          "explanation": "According to Ohm's Law, R = V / I, measured in Ohms (Ω).",
+          "options": [
+            "Ohm",
+            "Ampere",
+            "Volt",
+            "Farad"
+          ]
+        },
+        {
+          "question": "The blue colour of the sky is primarily due to ____ of light.",
+          "answer": "Scattering",
+          "aliases": [
+            "scattering",
+            "Rayleigh scattering"
+          ],
+          "explanation": "Shorter blue wavelengths scatter more strongly by atmospheric molecules (Rayleigh scattering).",
+          "options": [
+            "Scattering",
+            "Refraction",
+            "Dispersion",
+            "Diffraction"
+          ]
+        },
+        {
+          "question": "Sound waves cannot travel through a ____.",
+          "answer": "Vacuum",
+          "aliases": [
+            "vacuum"
+          ],
+          "explanation": "Sound is a mechanical wave and requires a material medium (solid, liquid, or gas) to propagate.",
+          "options": [
+            "Vacuum",
+            "Solid",
+            "Liquid",
+            "Gas"
+          ]
+        },
+        {
+          "question": "The device used to convert mechanical energy into electrical energy is a ____.",
+          "answer": "Generator",
+          "aliases": [
+            "generator",
+            "dynamo"
+          ],
+          "explanation": "A generator works on Faraday's law of electromagnetic induction.",
+          "options": [
+            "Generator",
+            "Transformer",
+            "Rectifier",
+            "Electric motor"
+          ]
+        },
+        {
+          "question": "The SI unit of frequency is ____.",
+          "answer": "Hertz",
+          "aliases": [
+            "hertz",
+            "Hz"
+          ],
+          "explanation": "1 Hertz equals one cycle per second.",
+          "options": [
+            "Hertz",
+            "Decibel",
+            "Newton",
+            "Joule"
+          ]
+        },
+        {
+          "question": "Myopia (short-sightedness) is corrected using a ____ lens.",
+          "answer": "Concave",
+          "aliases": [
+            "concave",
+            "diverging"
+          ],
+          "explanation": "A concave lens diverges incoming light rays so they focus directly on the retina.",
+          "options": [
+            "Concave",
+            "Convex",
+            "Cylindrical",
+            "Bifocal"
+          ]
+        },
+        {
+          "question": "The SI unit of power is ____.",
+          "answer": "Watt",
+          "aliases": [
+            "watt",
+            "W"
+          ],
+          "explanation": "1 Watt is equal to 1 Joule of work done per second.",
+          "options": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Volt"
+          ]
+        },
+        {
+          "question": "A fuse wire is made of an alloy of tin and ____.",
+          "answer": "Lead",
+          "aliases": [
+            "lead"
+          ],
+          "explanation": "A tin-lead alloy has high resistance and a low melting point, protecting circuits from overload.",
+          "options": [
+            "Lead",
+            "Copper",
+            "Aluminium",
+            "Zinc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "icon": "🧬",
+      "description": "Cell biology, human anatomy, vitamins, diseases, and botany",
+      "questions": [
+        {
+          "question": "The powerhouse of the cell is the ____.",
+          "answer": "Mitochondria",
+          "aliases": [
+            "mitochondria",
+            "mitochondrion"
+          ],
+          "explanation": "Mitochondria generate ATP through cellular respiration.",
+          "options": [
+            "Mitochondria",
+            "Ribosome",
+            "Golgi apparatus",
+            "Lysosome"
+          ]
+        },
+        {
+          "question": "Deficiency of Vitamin C causes ____.",
+          "answer": "Scurvy",
+          "aliases": [
+            "scurvy"
+          ],
+          "explanation": "Vitamin C (ascorbic acid) is essential for collagen synthesis; its lack causes bleeding gums and scurvy.",
+          "options": [
+            "Scurvy",
+            "Rickets",
+            "Beriberi",
+            "Pellagra"
+          ]
+        },
+        {
+          "question": "The universal donor blood group is ____.",
+          "answer": "O negative",
+          "aliases": [
+            "O negative",
+            "O-",
+            "O-ve",
+            "O"
+          ],
+          "explanation": "O-negative red blood cells lack A, B, and Rh antigens.",
+          "options": [
+            "O negative",
+            "AB positive",
+            "A positive",
+            "B negative"
+          ]
+        },
+        {
+          "question": "The green pigment in plants responsible for photosynthesis is ____.",
+          "answer": "Chlorophyll",
+          "aliases": [
+            "chlorophyll"
+          ],
+          "explanation": "Chlorophyll absorbs light energy (mostly red and blue wavelengths) to convert CO₂ and water into glucose.",
+          "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Xanthophyll",
+            "Anthocyanin"
+          ]
+        },
+        {
+          "question": "The longest bone in the human body is the ____.",
+          "answer": "Femur",
+          "aliases": [
+            "femur",
+            "thigh bone"
+          ],
+          "explanation": "The femur (thigh bone) is both the longest and strongest bone in the human body.",
+          "options": [
+            "Femur",
+            "Tibia",
+            "Humerus",
+            "Fibula"
+          ]
+        },
+        {
+          "question": "Insulin is secreted by the ____ gland.",
+          "answer": "Pancreas",
+          "aliases": [
+            "pancreas"
+          ],
+          "explanation": "Beta cells in the Islets of Langerhans of the pancreas produce insulin to regulate blood glucose.",
+          "options": [
+            "Pancreas",
+            "Thyroid",
+            "Pituitary",
+            "Adrenal"
+          ]
+        },
+        {
+          "question": "The largest organ of the human body is the ____.",
+          "answer": "Skin",
+          "aliases": [
+            "skin"
+          ],
+          "explanation": "The skin is the largest external organ; the liver is the largest internal organ.",
+          "options": [
+            "Skin",
+            "Liver",
+            "Heart",
+            "Lungs"
+          ]
+        },
+        {
+          "question": "Deficiency of Vitamin D causes ____ in children.",
+          "answer": "Rickets",
+          "aliases": [
+            "rickets"
+          ],
+          "explanation": "Vitamin D helps absorb calcium; its deficiency leads to soft, weak bones (rickets).",
+          "options": [
+            "Rickets",
+            "Scurvy",
+            "Goitre",
+            "Beriberi"
+          ]
+        },
+        {
+          "question": "The functional unit of the kidney is the ____.",
+          "answer": "Nephron",
+          "aliases": [
+            "nephron"
+          ],
+          "explanation": "Each human kidney contains roughly one million nephrons that filter blood to form urine.",
+          "options": [
+            "Nephron",
+            "Neuron",
+            "Alveolus",
+            "Villus"
+          ]
+        },
+        {
+          "question": "Plants transport water from roots to leaves through ____ tissue.",
+          "answer": "Xylem",
+          "aliases": [
+            "xylem"
+          ],
+          "explanation": "Xylem transports water and minerals upward; phloem transports food.",
+          "options": [
+            "Xylem",
+            "Phloem",
+            "Cambium",
+            "Parenchyma"
+          ]
+        },
+        {
+          "question": "The normal resting pH of human blood is approximately ____.",
+          "answer": "7.4",
+          "aliases": [
+            "7.4",
+            "7.35-7.45"
+          ],
+          "explanation": "Human blood is slightly alkaline, maintained tightly between 7.35 and 7.45.",
+          "options": [
+            "7.4",
+            "6.8",
+            "7.0",
+            "8.2"
+          ]
+        },
+        {
+          "question": "Night blindness is caused by the deficiency of Vitamin ____.",
+          "answer": "A",
+          "aliases": [
+            "A",
+            "Vitamin A",
+            "retinol"
+          ],
+          "explanation": "Vitamin A (retinol) is required to form rhodopsin, a pigment needed for low-light vision.",
+          "options": [
+            "A",
+            "B1",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "question": "The smallest bone in the human body is the ____.",
+          "answer": "Stapes",
+          "aliases": [
+            "stapes",
+            "stirrup"
+          ],
+          "explanation": "The stapes is one of the three ossicles located in the middle ear.",
+          "options": [
+            "Stapes",
+            "Malleus",
+            "Incus",
+            "Patella"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "icon": "🧪",
+      "description": "Periodic table, acids & bases, alloys, formulas, and everyday chemistry",
+      "questions": [
+        {
+          "question": "The chemical symbol for Gold is ____.",
+          "answer": "Au",
+          "aliases": [
+            "Au",
+            "au"
+          ],
+          "explanation": "Au comes from the Latin word for gold, 'aurum'.",
+          "options": [
+            "Au",
+            "Ag",
+            "Gd",
+            "Ga"
+          ]
+        },
+        {
+          "question": "The most abundant gas in Earth's atmosphere is ____.",
+          "answer": "Nitrogen",
+          "aliases": [
+            "nitrogen",
+            "N2"
+          ],
+          "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, followed by Oxygen (~21%).",
+          "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide",
+            "Argon"
+          ]
+        },
+        {
+          "question": "The pH value of pure neutral water at 25°C is ____.",
+          "answer": "7",
+          "aliases": [
+            "7",
+            "7.0"
+          ],
+          "explanation": "A pH of 7 is neutral; below 7 is acidic and above 7 is basic/alkaline.",
+          "options": [
+            "7",
+            "5",
+            "6",
+            "8"
+          ]
+        },
+        {
+          "question": "Dry ice is the solid form of ____.",
+          "answer": "Carbon dioxide",
+          "aliases": [
+            "carbon dioxide",
+            "CO2"
+          ],
+          "explanation": "Solid CO₂ sublimates directly from solid to gas at -78.5°C.",
+          "options": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Ammonia",
+            "Sulfur dioxide"
+          ]
+        },
+        {
+          "question": "The hardest naturally occurring substance is ____.",
+          "answer": "Diamond",
+          "aliases": [
+            "diamond"
+          ],
+          "explanation": "Diamond is an allotrope of carbon with a tetrahedral covalent lattice.",
+          "options": [
+            "Diamond",
+            "Quartz",
+            "Corundum",
+            "Topaz"
+          ]
+        },
+        {
+          "question": "Brass is an alloy of copper and ____.",
+          "answer": "Zinc",
+          "aliases": [
+            "zinc",
+            "Zn"
+          ],
+          "explanation": "Brass = Copper + Zinc; Bronze = Copper + Tin.",
+          "options": [
+            "Zinc",
+            "Tin",
+            "Nickel",
+            "Lead"
+          ]
+        },
+        {
+          "question": "The acid present in vinegar is ____ acid.",
+          "answer": "Acetic",
+          "aliases": [
+            "acetic",
+            "acetic acid",
+            "ethanoic",
+            "ethanoic acid"
+          ],
+          "explanation": "Vinegar typically contains 5–8% acetic acid (CH₃COOH).",
+          "options": [
+            "Acetic",
+            "Citric",
+            "Formic",
+            "Tartaric"
+          ]
+        },
+        {
+          "question": "The only metal that is liquid at room temperature is ____.",
+          "answer": "Mercury",
+          "aliases": [
+            "mercury",
+            "Hg"
+          ],
+          "explanation": "Mercury (Hg) melts at -38.83°C; Bromine is the only non-metal liquid at room temperature.",
+          "options": [
+            "Mercury",
+            "Gallium",
+            "Cesium",
+            "Sodium"
+          ]
+        },
+        {
+          "question": "Washing soda is chemically known as sodium ____.",
+          "answer": "Carbonate",
+          "aliases": [
+            "carbonate",
+            "sodium carbonate",
+            "Na2CO3"
+          ],
+          "explanation": "Washing soda is sodium carbonate decahydrate (Na₂CO₃·10H₂O); baking soda is sodium bicarbonate.",
+          "options": [
+            "Carbonate",
+            "Bicarbonate",
+            "Hydroxide",
+            "Chloride"
+          ]
+        },
+        {
+          "question": "Laughing gas is chemically known as ____ oxide.",
+          "answer": "Nitrous",
+          "aliases": [
+            "nitrous",
+            "nitrous oxide",
+            "N2O"
+          ],
+          "explanation": "Nitrous oxide (N₂O) is used as a mild anesthetic and propellant.",
+          "options": [
+            "Nitrous",
+            "Nitric",
+            "Sulfur",
+            "Carbon"
+          ]
+        },
+        {
+          "question": "The atomic number of an element equals the number of ____ in its nucleus.",
+          "answer": "Protons",
+          "aliases": [
+            "protons",
+            "proton"
+          ],
+          "explanation": "The atomic number (Z) is defined by the number of protons in the nucleus.",
+          "options": [
+            "Protons",
+            "Neutrons",
+            "Nucleons",
+            "Positrons"
+          ]
+        },
+        {
+          "question": "Rusting of iron is an example of ____.",
+          "answer": "Oxidation",
+          "aliases": [
+            "oxidation",
+            "corrosion"
+          ],
+          "explanation": "Iron reacts with oxygen and moisture to form hydrated iron(III) oxide (rust).",
+          "options": [
+            "Oxidation",
+            "Reduction",
+            "Sublimation",
+            "Neutralization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity",
+      "name": "Indian Polity",
+      "icon": "🏛️",
+      "description": "Constitution, Parliament, Fundamental Rights, Schedules, and governance",
+      "questions": [
+        {
+          "question": "The Constitution of India was adopted by the Constituent Assembly on 26 November ____.",
+          "answer": "1949",
+          "aliases": [
+            "1949"
+          ],
+          "explanation": "It was adopted on 26 November 1949 (Constitution Day) and came into effect on 26 January 1950.",
+          "options": [
+            "1949",
+            "1947",
+            "1948",
+            "1950"
+          ]
+        },
+        {
+          "question": "The Chairman of the Drafting Committee of the Indian Constitution was Dr. ____.",
+          "answer": "B. R. Ambedkar",
+          "aliases": [
+            "B. R. Ambedkar",
+            "BR Ambedkar",
+            "Ambedkar",
+            "Bhimrao Ramji Ambedkar"
+          ],
+          "explanation": "Dr. B. R. Ambedkar chaired the 7-member Drafting Committee appointed on 29 August 1947.",
+          "options": [
+            "B. R. Ambedkar",
+            "Rajendra Prasad",
+            "S. Radhakrishnan",
+            "K. M. Munshi"
+          ]
+        },
+        {
+          "question": "The minimum age to become a member of the Lok Sabha is ____ years.",
+          "answer": "25",
+          "aliases": [
+            "25",
+            "twenty five",
+            "twenty-five"
+          ],
+          "explanation": "Lok Sabha minimum age is 25 years; Rajya Sabha is 30 years; President/Governor is 35 years.",
+          "options": [
+            "25",
+            "18",
+            "21",
+            "30"
+          ]
+        },
+        {
+          "question": "The ex-officio Chairman of the Rajya Sabha is the ____ of India.",
+          "answer": "Vice President",
+          "aliases": [
+            "Vice President",
+            "Vice-President"
+          ],
+          "explanation": "Under Article 64, the Vice President of India serves as the ex-officio Chairman of the Rajya Sabha.",
+          "options": [
+            "Vice President",
+            "President",
+            "Prime Minister",
+            "Speaker"
+          ]
+        },
+        {
+          "question": "Fundamental Duties were added to the Constitution on the recommendation of the ____ Committee.",
+          "answer": "Swaran Singh",
+          "aliases": [
+            "Swaran Singh",
+            "Sardar Swaran Singh"
+          ],
+          "explanation": "The Swaran Singh Committee's recommendations led to the 42nd Amendment (1976), adding Part IVA.",
+          "options": [
+            "Swaran Singh",
+            "Sarkaria",
+            "Mandal",
+            "Balwant Rai Mehta"
+          ]
+        },
+        {
+          "question": "The concept of Directive Principles of State Policy (DPSP) was borrowed from the Constitution of ____.",
+          "answer": "Ireland",
+          "aliases": [
+            "Ireland",
+            "Irish"
+          ],
+          "explanation": "Part IV (Articles 36–51) of the Indian Constitution draws inspiration from the Irish Constitution.",
+          "options": [
+            "Ireland",
+            "USA",
+            "Canada",
+            "Australia"
+          ]
+        },
+        {
+          "question": "The ____ Schedule of the Indian Constitution contains the list of 22 recognized languages.",
+          "answer": "Eighth",
+          "aliases": [
+            "Eighth",
+            "8th",
+            "8"
+          ],
+          "explanation": "The Eighth Schedule originally had 14 languages and now recognizes 22 languages.",
+          "options": [
+            "Eighth",
+            "Seventh",
+            "Ninth",
+            "Eleventh"
+          ]
+        },
+        {
+          "question": "The Anti-Defection Law is contained in the ____ Schedule of the Indian Constitution.",
+          "answer": "Tenth",
+          "aliases": [
+            "Tenth",
+            "10th",
+            "10"
+          ],
+          "explanation": "Added by the 52nd Amendment Act, 1985, the Tenth Schedule deals with disqualification on grounds of defection.",
+          "options": [
+            "Tenth",
+            "Eighth",
+            "Ninth",
+            "Twelfth"
+          ]
+        },
+        {
+          "question": "The guardian and final interpreter of the Indian Constitution is the ____.",
+          "answer": "Supreme Court",
+          "aliases": [
+            "Supreme Court",
+            "Supreme Court of India"
+          ],
+          "explanation": "The Supreme Court of India upholds constitutional supremacy through judicial review.",
+          "options": [
+            "Supreme Court",
+            "Parliament",
+            "President",
+            "Attorney General"
+          ]
+        },
+        {
+          "question": "A Money Bill can only be introduced in the ____.",
+          "answer": "Lok Sabha",
+          "aliases": [
+            "Lok Sabha",
+            "House of the People"
+          ],
+          "explanation": "Under Article 109, a Money Bill can only originate in the Lok Sabha with the President's prior recommendation.",
+          "options": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Legislative Council",
+            "Joint Sitting"
+          ]
+        },
+        {
+          "question": "The maximum gap between two sessions of Parliament cannot exceed ____ months.",
+          "answer": "6",
+          "aliases": [
+            "6",
+            "six"
+          ],
+          "explanation": "Article 85 mandates that no more than six months shall intervene between two parliamentary sessions.",
+          "options": [
+            "6",
+            "3",
+            "4",
+            "12"
+          ]
+        },
+        {
+          "question": "The Comptroller and Auditor General (CAG) of India is appointed by the ____.",
+          "answer": "President",
+          "aliases": [
+            "President",
+            "President of India"
+          ],
+          "explanation": "Under Article 148, the President appoints the CAG for a term of 6 years or up to age 65.",
+          "options": [
+            "President",
+            "Prime Minister",
+            "Chief Justice of India",
+            "Speaker of Lok Sabha"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "articles_amendments",
+      "name": "Articles & Amendments",
+      "icon": "📜",
+      "description": "Important Constitutional Articles and landmark Amendments",
+      "questions": [
+        {
+          "question": "Article ____ of the Indian Constitution abolishes Untouchability.",
+          "answer": "17",
+          "aliases": [
+            "17",
+            "Article 17"
+          ],
+          "explanation": "Article 17 makes the practice of untouchability a punishable offence.",
+          "options": [
+            "17",
+            "14",
+            "15",
+            "18"
+          ]
+        },
+        {
+          "question": "Article ____ guarantees the Right to Life and Personal Liberty.",
+          "answer": "21",
+          "aliases": [
+            "21",
+            "Article 21"
+          ],
+          "explanation": "Article 21 states: 'No person shall be deprived of his life or personal liberty except according to procedure established by law.'",
+          "options": [
+            "21",
+            "19",
+            "20",
+            "22"
+          ]
+        },
+        {
+          "question": "Dr. B. R. Ambedkar called Article ____ the 'Heart and Soul' of the Indian Constitution.",
+          "answer": "32",
+          "aliases": [
+            "32",
+            "Article 32"
+          ],
+          "explanation": "Article 32 provides the Right to Constitutional Remedies, empowering the Supreme Court to issue writs.",
+          "options": [
+            "32",
+            "14",
+            "21",
+            "226"
+          ]
+        },
+        {
+          "question": "The ____ Constitutional Amendment Act (1976) is known as the 'Mini-Constitution'.",
+          "answer": "42nd",
+          "aliases": [
+            "42nd",
+            "42",
+            "Forty-second"
+          ],
+          "explanation": "The 42nd Amendment added 'Socialist', 'Secular', and 'Integrity' to the Preamble and introduced Fundamental Duties.",
+          "options": [
+            "42nd",
+            "44th",
+            "52nd",
+            "73rd"
+          ]
+        },
+        {
+          "question": "The ____ Amendment Act lowered the voting age in India from 21 years to 18 years.",
+          "answer": "61st",
+          "aliases": [
+            "61st",
+            "61",
+            "Sixty-first"
+          ],
+          "explanation": "Enacted in 1988 (effective 1989), the 61st Amendment amended Article 326.",
+          "options": [
+            "61st",
+            "42nd",
+            "52nd",
+            "73rd"
+          ]
+        },
+        {
+          "question": "Panchayati Raj institutions were given constitutional status by the ____ Amendment Act, 1992.",
+          "answer": "73rd",
+          "aliases": [
+            "73rd",
+            "73",
+            "Seventy-third"
+          ],
+          "explanation": "The 73rd Amendment added Part IX and the Eleventh Schedule to the Constitution.",
+          "options": [
+            "73rd",
+            "42nd",
+            "61st",
+            "74th"
+          ]
+        },
+        {
+          "question": "The Goods and Services Tax (GST) was introduced by the ____ Constitutional Amendment Act, 2016.",
+          "answer": "101st",
+          "aliases": [
+            "101st",
+            "101"
+          ],
+          "explanation": "The 101st Amendment introduced GST across India from 1 July 2017.",
+          "options": [
+            "101st",
+            "99th",
+            "100th",
+            "102nd"
+          ]
+        },
+        {
+          "question": "Article ____ deals with the Uniform Civil Code for citizens.",
+          "answer": "44",
+          "aliases": [
+            "44",
+            "Article 44"
+          ],
+          "explanation": "Article 44 (under DPSP) directs the State to endeavour to secure a Uniform Civil Code throughout India.",
+          "options": [
+            "44",
+            "40",
+            "43",
+            "48"
+          ]
+        },
+        {
+          "question": "Article ____ empowers Parliament to amend the Constitution.",
+          "answer": "368",
+          "aliases": [
+            "368",
+            "Article 368"
+          ],
+          "explanation": "Part XX, Article 368 outlines the procedure for amending the Constitution.",
+          "options": [
+            "368",
+            "352",
+            "356",
+            "360"
+          ]
+        },
+        {
+          "question": "The Right to Education (Article 21A) was inserted by the ____ Constitutional Amendment Act, 2002.",
+          "answer": "86th",
+          "aliases": [
+            "86th",
+            "86",
+            "Eighty-sixth"
+          ],
+          "explanation": "The 86th Amendment made free and compulsory education a fundamental right for children aged 6 to 14.",
+          "options": [
+            "86th",
+            "42nd",
+            "73rd",
+            "91st"
+          ]
+        },
+        {
+          "question": "Article ____ deals with the Election Commission of India.",
+          "answer": "324",
+          "aliases": [
+            "324",
+            "Article 324"
+          ],
+          "explanation": "Article 324 vests the superintendence, direction, and control of elections in the Election Commission.",
+          "options": [
+            "324",
+            "280",
+            "315",
+            "338"
+          ]
+        },
+        {
+          "question": "Article ____ provides for the Finance Commission of India.",
+          "answer": "280",
+          "aliases": [
+            "280",
+            "Article 280"
+          ],
+          "explanation": "The President constitutes the Finance Commission every five years under Article 280.",
+          "options": [
+            "280",
+            "110",
+            "312",
+            "324"
+          ]
+        },
+        {
+          "question": "The ____ Amendment Act (1978) removed the Right to Property from Fundamental Rights and made it a legal right under Article 300A.",
+          "answer": "44th",
+          "aliases": [
+            "44th",
+            "44",
+            "Forty-fourth"
+          ],
+          "explanation": "The 44th Amendment shifted Right to Property from Article 31 to Article 300A.",
+          "options": [
+            "44th",
+            "42nd",
+            "52nd",
+            "61st"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national_parks",
+      "name": "National Parks",
+      "icon": "🌿",
+      "description": "National Parks, Biosphere Reserves, and Wildlife Sanctuaries of India",
+      "questions": [
+        {
+          "question": "India's first National Park, established in 1936 as Hailey National Park, is ____ National Park.",
+          "answer": "Jim Corbett",
+          "aliases": [
+            "Jim Corbett",
+            "Corbett"
+          ],
+          "explanation": "Located in Uttarakhand, Jim Corbett National Park was established in 1936.",
+          "options": [
+            "Jim Corbett",
+            "Kaziranga",
+            "Bandipur",
+            "Kanha"
+          ]
+        },
+        {
+          "question": "Kaziranga National Park in Assam is famous for the ____.",
+          "answer": "One-horned rhinoceros",
+          "aliases": [
+            "one-horned rhinoceros",
+            "one horned rhino",
+            "rhinoceros",
+            "rhino",
+            "Indian rhinoceros"
+          ],
+          "explanation": "Kaziranga is a UNESCO World Heritage Site housing two-thirds of the world's great one-horned rhinoceroses.",
+          "options": [
+            "One-horned rhinoceros",
+            "Asiatic Lion",
+            "Snow Leopard",
+            "Sangai Deer"
+          ]
+        },
+        {
+          "question": "Gir National Park, the only natural habitat of the Asiatic Lion, is located in ____.",
+          "answer": "Gujarat",
+          "aliases": [
+            "Gujarat"
+          ],
+          "explanation": "Gir National Park and Wildlife Sanctuary is located in Junagadh/Gir Somnath, Gujarat.",
+          "options": [
+            "Gujarat",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Maharashtra"
+          ]
+        },
+        {
+          "question": "The world's only floating National Park, Keibul Lamjao, is situated in ____.",
+          "answer": "Manipur",
+          "aliases": [
+            "Manipur"
+          ],
+          "explanation": "Keibul Lamjao National Park floats on Loktak Lake in Manipur and is home to the Sangai deer.",
+          "options": [
+            "Manipur",
+            "Assam",
+            "Meghalaya",
+            "Tripura"
+          ]
+        },
+        {
+          "question": "Sundarbans National Park, famous for Royal Bengal Tigers and mangroves, is in ____.",
+          "answer": "West Bengal",
+          "aliases": [
+            "West Bengal",
+            "WB"
+          ],
+          "explanation": "Sundarbans lies in the Ganges-Brahmaputra delta in West Bengal.",
+          "options": [
+            "West Bengal",
+            "Odisha",
+            "Assam",
+            "Andhra Pradesh"
+          ]
+        },
+        {
+          "question": "The largest National Park in India by area is ____ National Park in Ladakh.",
+          "answer": "Hemis",
+          "aliases": [
+            "Hemis"
+          ],
+          "explanation": "Hemis National Park (Ladakh) covers ~4,400 sq km and is famous for snow leopards.",
+          "options": [
+            "Hemis",
+            "Dachigam",
+            "Nanda Devi",
+            "Desert"
+          ]
+        },
+        {
+          "question": "Dachigam National Park, famous for the Hangul (Kashmir Stag), is located in ____.",
+          "answer": "Jammu and Kashmir",
+          "aliases": [
+            "Jammu and Kashmir",
+            "Jammu & Kashmir",
+            "J&K",
+            "Kashmir"
+          ],
+          "explanation": "Dachigam National Park is located near Srinagar in Jammu and Kashmir.",
+          "options": [
+            "Jammu and Kashmir",
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Ladakh"
+          ]
+        },
+        {
+          "question": "Silent Valley National Park is located in the Nilgiri Hills of ____.",
+          "answer": "Kerala",
+          "aliases": [
+            "Kerala"
+          ],
+          "explanation": "Silent Valley in Palakkad, Kerala is famous for its tropical evergreen forests and lion-tailed macaque.",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Goa"
+          ]
+        },
+        {
+          "question": "Ranthambore National Park is located in the state of ____.",
+          "answer": "Rajasthan",
+          "aliases": [
+            "Rajasthan"
+          ],
+          "explanation": "Located in Sawai Madhopur, Rajasthan, Ranthambore is a major Project Tiger reserve.",
+          "options": [
+            "Rajasthan",
+            "Gujarat",
+            "Madhya Pradesh",
+            "Uttar Pradesh"
+          ]
+        },
+        {
+          "question": "Bandipur National Park is situated in the state of ____.",
+          "answer": "Karnataka",
+          "aliases": [
+            "Karnataka"
+          ],
+          "explanation": "Bandipur is part of the Nilgiri Biosphere Reserve in Chamarajanagar district, Karnataka.",
+          "options": [
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+          ]
+        },
+        {
+          "question": "Simlipal National Park is located in ____.",
+          "answer": "Odisha",
+          "aliases": [
+            "Odisha",
+            "Orissa"
+          ],
+          "explanation": "Simlipal is a tiger reserve and biosphere reserve in Mayurbhanj district, Odisha.",
+          "options": [
+            "Odisha",
+            "Jharkhand",
+            "Chhattisgarh",
+            "West Bengal"
+          ]
+        },
+        {
+          "question": "Kanha National Park, which inspired Rudyard Kipling's 'The Jungle Book', is in ____.",
+          "answer": "Madhya Pradesh",
+          "aliases": [
+            "Madhya Pradesh",
+            "MP"
+          ],
+          "explanation": "Kanha Tiger Reserve is located in Madhya Pradesh and is known for the Barasingha (swamp deer).",
+          "options": [
+            "Madhya Pradesh",
+            "Uttarakhand",
+            "Maharashtra",
+            "Rajasthan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pm_yojanas",
+      "name": "All PM Yojanas",
+      "icon": "📋",
+      "description": "Pradhan Mantri Yojanas & flagship Government of India schemes",
+      "questions": [
+        {
+          "question": "Pradhan Mantri Jan Dhan Yojana (PMJDY), launched on 28 August 2014, is India's flagship ____ inclusion mission.",
+          "answer": "Financial",
+          "aliases": [
+            "financial",
+            "banking"
+          ],
+          "explanation": "PMJDY aims to ensure universal access to banking facilities, zero-balance accounts, RuPay cards, and insurance.",
+          "options": [
+            "Financial",
+            "Digital",
+            "Agricultural",
+            "Housing"
+          ]
+        },
+        {
+          "question": "Pradhan Mantri Ujjwala Yojana (PMUY) provides free ____ connections to women from BPL households.",
+          "answer": "LPG",
+          "aliases": [
+            "LPG",
+            "cooking gas",
+            "gas"
+          ],
+          "explanation": "Launched on 1 May 2016 in Ballia, UP, PMUY promotes clean cooking fuel.",
+          "options": [
+            "LPG",
+            "Electricity",
+            "Broadband",
+            "Tap water"
+          ]
+        },
+        {
+          "question": "Under Ayushman Bharat (PM-JAY), eligible families receive health cover up to ₹____ lakh per family per year.",
+          "answer": "5",
+          "aliases": [
+            "5",
+            "five",
+            "5 lakh"
+          ],
+          "explanation": "Launched in September 2018, PM-JAY provides ₹5 lakh annual secondary and tertiary hospitalization cover.",
+          "options": [
+            "5",
+            "2",
+            "3",
+            "10"
+          ]
+        },
+        {
+          "question": "Under PM-KISAN (Pradhan Mantri Kisan Samman Nidhi), eligible farmer families receive ₹____ per year in three equal installments.",
+          "answer": "6000",
+          "aliases": [
+            "6000",
+            "6,000"
+          ],
+          "explanation": "Farmers receive ₹2,000 every four months (total ₹6,000/year) via Direct Benefit Transfer.",
+          "options": [
+            "6000",
+            "3000",
+            "8000",
+            "12000"
+          ]
+        },
+        {
+          "question": "Pradhan Mantri MUDRA Yojana provides collateral-free loans up to ₹10 lakh under three categories: Shishu, Kishore, and ____.",
+          "answer": "Tarun",
+          "aliases": [
+            "Tarun",
+            "tarun"
+          ],
+          "explanation": "Shishu (up to ₹50,000), Kishore (₹50,000 to ₹5 lakh), and Tarun (₹5 lakh to ₹10 lakh).",
+          "options": [
+            "Tarun",
+            "Vriddha",
+            "Yuva",
+            "Pragati"
+          ]
+        },
+        {
+          "question": "Beti Bachao Beti Padhao Yojana was launched on 22 January 2015 from Panipat, ____.",
+          "answer": "Haryana",
+          "aliases": [
+            "Haryana"
+          ],
+          "explanation": "The scheme aims to address the declining Child Sex Ratio and promote girls' education.",
+          "options": [
+            "Haryana",
+            "Punjab",
+            "Rajasthan",
+            "Uttar Pradesh"
+          ]
+        },
+        {
+          "question": "Swachh Bharat Mission was launched on 2 October ____.",
+          "answer": "2014",
+          "aliases": [
+            "2014"
+          ],
+          "explanation": "Launched on Gandhi Jayanti 2014 to achieve universal sanitation coverage and an Open Defecation Free India.",
+          "options": [
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+          ]
+        },
+        {
+          "question": "Atal Pension Yojana (APY) is open to Indian citizens aged between 18 and ____ years.",
+          "answer": "40",
+          "aliases": [
+            "40",
+            "forty"
+          ],
+          "explanation": "Subscribers aged 18–40 receive guaranteed minimum monthly pension of ₹1,000 to ₹5,000 after age 60.",
+          "options": [
+            "40",
+            "30",
+            "50",
+            "60"
+          ]
+        },
+        {
+          "question": "PM SVANidhi scheme provides micro-credit working capital loans to ____.",
+          "answer": "Street vendors",
+          "aliases": [
+            "street vendors",
+            "vendors",
+            "hawkers"
+          ],
+          "explanation": "Launched in June 2020, PM Street Vendor's AtmaNirbhar Nidhi supports urban street vendors.",
+          "options": [
+            "Street vendors",
+            "Marginal farmers",
+            "Handloom weavers",
+            "Dairy cooperatives"
+          ]
+        },
+        {
+          "question": "PM Vishwakarma Yojana, launched in September 2023, supports traditional ____ and craftspeople.",
+          "answer": "Artisans",
+          "aliases": [
+            "artisans",
+            "artisan",
+            "craftsmen"
+          ],
+          "explanation": "PM Vishwakarma provides skill training, toolkit incentives, and collateral-free credit to 18 traditional trades.",
+          "options": [
+            "Artisans",
+            "Fishermen",
+            "Dairy farmers",
+            "Folk artists"
+          ]
+        },
+        {
+          "question": "PM Surya Ghar: Muft Bijli Yojana aims to provide up to ____ units of free electricity per month via rooftop solar.",
+          "answer": "300",
+          "aliases": [
+            "300",
+            "three hundred"
+          ],
+          "explanation": "Launched in February 2024, it subsidizes rooftop solar installations for 1 crore households.",
+          "options": [
+            "300",
+            "100",
+            "200",
+            "500"
+          ]
+        },
+        {
+          "question": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) offers a life insurance cover of ₹____ lakh.",
+          "answer": "2",
+          "aliases": [
+            "2",
+            "two",
+            "2 lakh"
+          ],
+          "explanation": "PMJJBY provides ₹2 lakh life cover for individuals aged 18–50 years.",
+          "options": [
+            "2",
+            "1",
+            "5",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geography_rivers",
+      "name": "Geography, Rivers & Dams",
+      "icon": "🌍",
+      "description": "Rivers, dams, mountain passes, lakes, and Indian/World geography",
+      "questions": [
+        {
+          "question": "The longest river in India is the ____.",
+          "answer": "Ganga",
+          "aliases": [
+            "Ganga",
+            "Ganges"
+          ],
+          "explanation": "The Ganga flows for about 2,525 km through India and Bangladesh.",
+          "options": [
+            "Ganga",
+            "Yamuna",
+            "Brahmaputra",
+            "Godavari"
+          ]
+        },
+        {
+          "question": "The highest dam in India is the ____ Dam in Uttarakhand.",
+          "answer": "Tehri",
+          "aliases": [
+            "Tehri",
+            "Tehri Dam"
+          ],
+          "explanation": "Tehri Dam on the Bhagirathi River stands at 260.5 meters.",
+          "options": [
+            "Tehri",
+            "Bhakra Nangal",
+            "Hirakud",
+            "Sardar Sarovar"
+          ]
+        },
+        {
+          "question": "The longest dam in India is the ____ Dam built across the Mahanadi River.",
+          "answer": "Hirakud",
+          "aliases": [
+            "Hirakud",
+            "Hirakud Dam"
+          ],
+          "explanation": "Located in Odisha, Hirakud Dam stretches about 25.8 km including dykes.",
+          "options": [
+            "Hirakud",
+            "Tehri",
+            "Nagarjuna Sagar",
+            "Mettur"
+          ]
+        },
+        {
+          "question": "The largest freshwater lake in India is ____ Lake in Jammu and Kashmir.",
+          "answer": "Wular",
+          "aliases": [
+            "Wular",
+            "Wular Lake"
+          ],
+          "explanation": "Wular Lake in Bandipora district is fed by the Jhelum River.",
+          "options": [
+            "Wular",
+            "Dal",
+            "Chilika",
+            "Loktak"
+          ]
+        },
+        {
+          "question": "The river known as the 'Sorrow of Bihar' is the ____.",
+          "answer": "Kosi",
+          "aliases": [
+            "Kosi",
+            "Koshi"
+          ],
+          "explanation": "The Kosi River frequently shifts its course and causes severe floods in Bihar.",
+          "options": [
+            "Kosi",
+            "Damodar",
+            "Gandak",
+            "Son"
+          ]
+        },
+        {
+          "question": "The ____ Strait separates India from Sri Lanka.",
+          "answer": "Palk",
+          "aliases": [
+            "Palk",
+            "Palk Strait"
+          ],
+          "explanation": "The Palk Strait connects the Bay of Bengal with the Gulf of Mannar.",
+          "options": [
+            "Palk",
+            "Malacca",
+            "Hormuz",
+            "Sunda"
+          ]
+        },
+        {
+          "question": "The Tropic of Cancer passes through ____ Indian states.",
+          "answer": "8",
+          "aliases": [
+            "8",
+            "eight"
+          ],
+          "explanation": "Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+          "options": [
+            "8",
+            "6",
+            "7",
+            "9"
+          ]
+        },
+        {
+          "question": "The largest brackish water lagoon in India is ____ Lake in Odisha.",
+          "answer": "Chilika",
+          "aliases": [
+            "Chilika",
+            "Chilka",
+            "Chilika Lake"
+          ],
+          "explanation": "Chilika Lake is the largest coastal lagoon in India and a Ramsar wetland.",
+          "options": [
+            "Chilika",
+            "Pulicat",
+            "Vembanad",
+            "Kolleru"
+          ]
+        },
+        {
+          "question": "The longest river in Peninsular India (also called Dakshin Ganga) is the ____.",
+          "answer": "Godavari",
+          "aliases": [
+            "Godavari"
+          ],
+          "explanation": "Originating at Trimbakeshwar (Maharashtra), the Godavari is ~1,465 km long.",
+          "options": [
+            "Godavari",
+            "Krishna",
+            "Kaveri",
+            "Mahanadi"
+          ]
+        },
+        {
+          "question": "Nathu La pass connects Sikkim with ____.",
+          "answer": "Tibet",
+          "aliases": [
+            "Tibet",
+            "China"
+          ],
+          "explanation": "Nathu La is a mountain pass in the Himalayas at ~4,310 meters.",
+          "options": [
+            "Tibet",
+            "Nepal",
+            "Bhutan",
+            "Myanmar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "awards_culture",
+      "name": "Awards, Dances & Orgs",
+      "icon": "🏆",
+      "description": "Classical dances, awards, international organizations, and sports",
+      "questions": [
+        {
+          "question": "The classical dance form Kuchipudi originated in the state of ____.",
+          "answer": "Andhra Pradesh",
+          "aliases": [
+            "Andhra Pradesh",
+            "AP"
+          ],
+          "explanation": "Kuchipudi takes its name from Kuchelapuram village in Krishna district, Andhra Pradesh.",
+          "options": [
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Odisha",
+            "Karnataka"
+          ]
+        },
+        {
+          "question": "Kathakali is a classical dance form of ____.",
+          "answer": "Kerala",
+          "aliases": [
+            "Kerala"
+          ],
+          "explanation": "Both Kathakali and Mohiniyattam are classical dance forms of Kerala.",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Manipur"
+          ]
+        },
+        {
+          "question": "The headquarters of the World Health Organization (WHO) is located in ____.",
+          "answer": "Geneva",
+          "aliases": [
+            "Geneva",
+            "Geneva, Switzerland"
+          ],
+          "explanation": "WHO, WTO, ILO, and WIPO are all headquartered in Geneva, Switzerland.",
+          "options": [
+            "Geneva",
+            "New York",
+            "Paris",
+            "Vienna"
+          ]
+        },
+        {
+          "question": "The headquarters of UNESCO is located in ____.",
+          "answer": "Paris",
+          "aliases": [
+            "Paris",
+            "Paris, France"
+          ],
+          "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) is based in Paris.",
+          "options": [
+            "Paris",
+            "Geneva",
+            "Rome",
+            "London"
+          ]
+        },
+        {
+          "question": "India's highest civilian award is the ____.",
+          "answer": "Bharat Ratna",
+          "aliases": [
+            "Bharat Ratna"
+          ],
+          "explanation": "Instituted in 1954, the Bharat Ratna is awarded for exceptional service of the highest order.",
+          "options": [
+            "Bharat Ratna",
+            "Padma Vibhushan",
+            "Padma Bhushan",
+            "Param Vir Chakra"
+          ]
+        },
+        {
+          "question": "The Dronacharya Award is given for excellence in sports ____.",
+          "answer": "Coaching",
+          "aliases": [
+            "coaching",
+            "coaches"
+          ],
+          "explanation": "Instituted in 1985, it honours outstanding coaches in sports and games.",
+          "options": [
+            "Coaching",
+            "Journalism",
+            "Administration",
+            "Officiating"
+          ]
+        },
+        {
+          "question": "Bihu is the famous folk dance and harvest festival of ____.",
+          "answer": "Assam",
+          "aliases": [
+            "Assam"
+          ],
+          "explanation": "Assam celebrates Rongali (Bohag), Kongali (Kati), and Bhogali (Magh) Bihu.",
+          "options": [
+            "Assam",
+            "Manipur",
+            "Tripura",
+            "Meghalaya"
+          ]
+        },
+        {
+          "question": "The Thomas Cup is associated with the sport of ____.",
+          "answer": "Badminton",
+          "aliases": [
+            "badminton"
+          ],
+          "explanation": "Thomas Cup is the men's world team championship in badminton (Uber Cup is for women).",
+          "options": [
+            "Badminton",
+            "Tennis",
+            "Table Tennis",
+            "Squash"
+          ]
+        },
+        {
+          "question": "The Hornbill Festival is celebrated annually in the state of ____.",
+          "answer": "Nagaland",
+          "aliases": [
+            "Nagaland"
+          ],
+          "explanation": "Called the 'Festival of Festivals', it takes place every December in Kisama, Nagaland.",
+          "options": [
+            "Nagaland",
+            "Mizoram",
+            "Manipur",
+            "Arunachal Pradesh"
+          ]
+        },
+        {
+          "question": "The International Court of Justice (ICJ) is headquartered at The Hague in the ____.",
+          "answer": "Netherlands",
+          "aliases": [
+            "Netherlands",
+            "The Netherlands",
+            "Holland"
+          ],
+          "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands.",
+          "options": [
+            "Netherlands",
+            "Switzerland",
+            "Belgium",
+            "Austria"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_monuments",
+      "name": "History & Monuments",
+      "icon": "🏰",
+      "description": "Ancient, medieval, modern Indian history, and UNESCO heritage sites",
+      "questions": [
+        {
+          "question": "The Great Bath was discovered at the Indus Valley site of ____.",
+          "answer": "Mohenjo-daro",
+          "aliases": [
+            "Mohenjo-daro",
+            "Mohenjodaro",
+            "Mohenjo daro"
+          ],
+          "explanation": "Mohenjo-daro (in present-day Sindh, Pakistan) featured the Great Bath and advanced drainage.",
+          "options": [
+            "Mohenjo-daro",
+            "Harappa",
+            "Lothal",
+            "Kalibangan"
+          ]
+        },
+        {
+          "question": "Gautama Buddha delivered his first sermon at ____.",
+          "answer": "Sarnath",
+          "aliases": [
+            "Sarnath"
+          ],
+          "explanation": "Known as Dharmachakrapravartana, the first sermon was delivered at Deer Park in Sarnath near Varanasi.",
+          "options": [
+            "Sarnath",
+            "Bodh Gaya",
+            "Lumbini",
+            "Kushinagar"
+          ]
+        },
+        {
+          "question": "The Battle of Plassey was fought in the year ____.",
+          "answer": "1757",
+          "aliases": [
+            "1757"
+          ],
+          "explanation": "On 23 June 1757, Robert Clive defeated Nawab Siraj-ud-Daulah, marking the rise of British rule.",
+          "options": [
+            "1757",
+            "1764",
+            "1761",
+            "1759"
+          ]
+        },
+        {
+          "question": "The founder of the Maurya Empire was ____.",
+          "answer": "Chandragupta Maurya",
+          "aliases": [
+            "Chandragupta Maurya",
+            "Chandragupta"
+          ],
+          "explanation": "With Chanakya's guidance, Chandragupta Maurya established the Maurya Empire in ~322 BCE.",
+          "options": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Bindusara",
+            "Samudragupta"
+          ]
+        },
+        {
+          "question": "The Sun Temple at Konark was built by King ____ I of the Eastern Ganga dynasty.",
+          "answer": "Narasimhadeva",
+          "aliases": [
+            "Narasimhadeva",
+            "Narasimhadeva I",
+            "Narasingha Deva"
+          ],
+          "explanation": "Built in the 13th century in Odisha, Konark Sun Temple is a UNESCO World Heritage Site.",
+          "options": [
+            "Narasimhadeva",
+            "Rajaraja",
+            "Pulakeshin",
+            "Krishnadevaraya"
+          ]
+        },
+        {
+          "question": "The Quit India Movement was launched by Mahatma Gandhi in August ____.",
+          "answer": "1942",
+          "aliases": [
+            "1942"
+          ],
+          "explanation": "Launched on 8 August 1942 at the Bombay session of the AICC with the call 'Do or Die'.",
+          "options": [
+            "1942",
+            "1930",
+            "1920",
+            "1945"
+          ]
+        },
+        {
+          "question": "The Ajanta and Ellora caves are located near Aurangabad (Chhatrapati Sambhajinagar) in ____.",
+          "answer": "Maharashtra",
+          "aliases": [
+            "Maharashtra"
+          ],
+          "explanation": "Both Ajanta and Ellora are UNESCO World Heritage Sites in Maharashtra.",
+          "options": [
+            "Maharashtra",
+            "Madhya Pradesh",
+            "Karnataka",
+            "Gujarat"
+          ]
+        },
+        {
+          "question": "The Indian National Congress was founded in 1885 in Bombay; its first President was ____.",
+          "answer": "W. C. Bonnerjee",
+          "aliases": [
+            "W. C. Bonnerjee",
+            "WC Bonnerjee",
+            "Womesh Chandra Bonnerjee",
+            "Bonnerjee"
+          ],
+          "explanation": "A. O. Hume helped organize the first session, which was presided over by W. C. Bonnerjee.",
+          "options": [
+            "W. C. Bonnerjee",
+            "Dadabhai Naoroji",
+            "Surendranath Banerjee",
+            "A. O. Hume"
+          ]
+        },
+        {
+          "question": "The Brihadeeswarar Temple at Thanjavur was built by ____.",
+          "answer": "Rajaraja Chola I",
+          "aliases": [
+            "Rajaraja Chola",
+            "Rajaraja Chola I",
+            "Raja Raja Chola",
+            "Rajaraja I"
+          ],
+          "explanation": "Completed in 1010 CE, it is a masterpiece of Chola architecture in Tamil Nadu.",
+          "options": [
+            "Rajaraja Chola I",
+            "Rajendra Chola I",
+            "Narasimhavarman I",
+            "Krishnadevaraya"
+          ]
+        },
+        {
+          "question": "The Jallianwala Bagh massacre took place on 13 April ____.",
+          "answer": "1919",
+          "aliases": [
+            "1919"
+          ],
+          "explanation": "Occurred in Amritsar, Punjab on Baisakhi day, 13 April 1919.",
+          "options": [
+            "1919",
+            "1917",
+            "1921",
+            "1922"
+          ]
+        }
+      ]
+    }
+  ]
+}
